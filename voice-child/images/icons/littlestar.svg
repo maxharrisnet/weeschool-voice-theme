@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>littlestar@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Redlines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-643.000000, -2665.000000)" fill="#FBBD20">
+            <g id="play-smart" transform="translate(159.000000, 2639.000000)">
+                <path d="M501.655428,52.7281112 L493.506899,57.0120464 C491.55287,58.0393407 490.272148,57.1035613 490.644529,54.932413 L492.20076,45.8588925 L485.608461,39.4329897 C484.027618,37.8920484 484.521833,36.3848383 486.701789,36.068072 L495.812122,34.7442632 L499.886386,26.4889016 C500.863401,24.5092533 502.449564,24.5135256 503.42447,26.4889016 L507.498735,34.7442632 L516.609067,36.068072 C518.793739,36.3855234 519.279827,37.8953739 517.702395,39.4329897 L511.110097,45.8588925 L512.666327,54.932413 C513.039514,57.108257 511.75377,58.0371237 509.803957,57.0120464 L501.655428,52.7281112 Z" id="littlestar" transform="translate(501.655358, 41.217548) rotate(-21.000000) translate(-501.655358, -41.217548) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

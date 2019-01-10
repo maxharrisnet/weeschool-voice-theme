@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "base-theme.css",
+	"sources": [
+		"sass/base-theme.scss"
+	],
+	"mappings": "AAAA;;;;;;GAMG;AAGH,IAAI,CAAC;EACJ,gBAAgB,EAAE,IAAK,GACvB",
+	"names": []
+}

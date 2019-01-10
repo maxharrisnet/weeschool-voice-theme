@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>social-footer-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="footer" transform="translate(-690.000000, -167.000000)">
+            <g id="social-icons">
+                <g transform="translate(691.000000, 168.000000)">
+                    <g id="social-footer-facebook">
+                        <ellipse id="Oval-3" stroke="#FFFFFF" cx="13.0543933" cy="13" rx="13.0543933" ry="13"></ellipse>
+                        <path d="M14.295289,21.3196729 L14.295289,13.158881 L16.5574502,13.158881 L16.8572354,10.3466269 L14.295289,10.3466269 L14.2991324,8.93906667 C14.2991324,8.20558748 14.3691143,7.81257258 15.4270102,7.81257258 L16.8412212,7.81257258 L16.8412212,5 L14.5787398,5 C11.8611357,5 10.9046095,6.3642458 10.9046095,8.65847823 L10.9046095,10.3469454 L9.21063101,10.3469454 L9.21063101,13.1591995 L10.9046095,13.1591995 L10.9046095,21.3196729 L14.295289,21.3196729 Z" id="Path" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

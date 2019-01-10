@@ -1,0 +1,3648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-11-04 13:54+0100\n"
+"PO-Revision-Date: 2016-11-04 13:54+0100\n"
+"Last-Translator: MeksHQ <support@mekshq.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../template-modules.php:90
+#, php-format
+msgid ""
+"No posts match your criteria. Please choose different options in <a href=\"%s"
+"\">Module Generator</a>."
+msgstr ""
+
+#: ../template-modules.php:108
+msgid "Oooops!"
+msgstr ""
+
+#: ../template-modules.php:110
+#, php-format
+msgid ""
+"You don't have any modules yet. Hurry up and create your <a href=\"%s"
+"\">first module</a>."
+msgstr ""
+
+#: ../include/helpers.php:95 ../include/helpers.php:114
+#: ../include/helpers.php:141 ../include/helpers.php:273
+#: ../include/helpers.php:293 ../include/metaboxes.php:453
+msgid "Inherit"
+msgstr ""
+
+#: ../include/helpers.php:98
+msgid "No sidebar (full width)"
+msgstr ""
+
+#: ../include/helpers.php:99
+msgid "Left sidebar"
+msgstr ""
+
+#: ../include/helpers.php:100
+msgid "Right sidebar"
+msgstr ""
+
+#: ../include/helpers.php:118
+msgid "Standard"
+msgstr ""
+
+#: ../include/helpers.php:123
+msgid "Cover"
+msgstr ""
+
+#: ../include/helpers.php:144 ../include/helpers.php:277
+#: ../include/helpers.php:297 ../include/helpers.php:1880
+#: ../include/helpers.php:1894 ../include/modules.php:277
+#: ../include/widgets/posts.php:320
+msgid "None"
+msgstr ""
+
+#: ../include/helpers.php:173 ../include/metaboxes.php:32
+#: ../include/metaboxes.php:90 ../include/options.php:204
+#: ../include/sidebars.php:43
+msgid "Sidebar"
+msgstr ""
+
+#: ../include/helpers.php:280
+msgid "Big post + slider below"
+msgstr ""
+
+#: ../include/helpers.php:281
+msgid "Big post(s) only"
+msgstr ""
+
+#: ../include/helpers.php:282
+msgid "Slider only"
+msgstr ""
+
+#: ../include/helpers.php:300 ../include/sections.php:934
+msgid "Layout A"
+msgstr ""
+
+#: ../include/helpers.php:301 ../include/sections.php:1021
+msgid "Layout B"
+msgstr ""
+
+#: ../include/helpers.php:302 ../include/sections.php:1086
+msgid "Layout C"
+msgstr ""
+
+#: ../include/helpers.php:303 ../include/sections.php:1162
+msgid "Layout D"
+msgstr ""
+
+#: ../include/helpers.php:304 ../include/sections.php:1207
+msgid "Layout E"
+msgstr ""
+
+#: ../include/helpers.php:305 ../include/sections.php:1252
+msgid "Layout F"
+msgstr ""
+
+#: ../include/helpers.php:306 ../include/sections.php:1272
+msgid "Layout G"
+msgstr ""
+
+#: ../include/helpers.php:307 ../include/sections.php:1339
+msgid "Layout H"
+msgstr ""
+
+#: ../include/helpers.php:317
+msgid "Prev/Next page links"
+msgstr ""
+
+#: ../include/helpers.php:318
+msgid "Numeric pagination links"
+msgstr ""
+
+#: ../include/helpers.php:319
+msgid "Load more button"
+msgstr ""
+
+#: ../include/helpers.php:320
+msgid "Infinite scroll"
+msgstr ""
+
+#: ../include/helpers.php:334 ../include/helpers.php:1568
+#: ../include/widgets/posts.php:321
+msgid "Date"
+msgstr ""
+
+#: ../include/helpers.php:335 ../include/widgets/posts.php:323
+msgid "Comments"
+msgstr ""
+
+#: ../include/helpers.php:336 ../include/widgets/posts.php:322
+msgid "Author"
+msgstr ""
+
+#: ../include/helpers.php:337 ../include/translate.php:26
+#: ../include/widgets/posts.php:324
+msgid "Views"
+msgstr ""
+
+#: ../include/helpers.php:338 ../include/widgets/posts.php:325
+msgid "Reading time"
+msgstr ""
+
+#: ../include/helpers.php:339 ../include/helpers.php:1572
+msgid "Modified date"
+msgstr ""
+
+#: ../include/helpers.php:342 ../include/widgets/posts.php:329
+msgid "Reviews"
+msgstr ""
+
+#: ../include/helpers.php:1527
+msgid "This moment"
+msgstr ""
+
+#: ../include/helpers.php:1528 ../include/helpers.php:1539
+#: ../include/sections.php:2619 ../include/widgets/posts.php:262
+msgid "1 Day"
+msgstr ""
+
+#: ../include/helpers.php:1529 ../include/helpers.php:1540
+msgid "3 Days"
+msgstr ""
+
+#: ../include/helpers.php:1530 ../include/helpers.php:1541
+#: ../include/sections.php:2620 ../include/widgets/posts.php:263
+msgid "1 Week"
+msgstr ""
+
+#: ../include/helpers.php:1531 ../include/helpers.php:1542
+#: ../include/sections.php:2621 ../include/widgets/posts.php:264
+msgid "1 Month"
+msgstr ""
+
+#: ../include/helpers.php:1532 ../include/helpers.php:1543
+#: ../include/sections.php:2622 ../include/widgets/posts.php:265
+msgid "3 Months"
+msgstr ""
+
+#: ../include/helpers.php:1533 ../include/helpers.php:1544
+#: ../include/sections.php:2623 ../include/widgets/posts.php:266
+msgid "6 Months"
+msgstr ""
+
+#: ../include/helpers.php:1534 ../include/helpers.php:1545
+#: ../include/sections.php:2624 ../include/widgets/posts.php:267
+msgid "1 Year"
+msgstr ""
+
+#: ../include/helpers.php:1546
+msgid "All time"
+msgstr ""
+
+#: ../include/helpers.php:1569
+msgid "Number of comments"
+msgstr ""
+
+#: ../include/helpers.php:1570
+msgid "Number of views"
+msgstr ""
+
+#: ../include/helpers.php:1571
+msgid "Title (alphabetically)"
+msgstr ""
+
+#: ../include/helpers.php:1573
+msgid "Random"
+msgstr ""
+
+#: ../include/helpers.php:1578
+msgid "Reviews (stars)"
+msgstr ""
+
+#: ../include/helpers.php:1579
+msgid "Reviews (points)"
+msgstr ""
+
+#: ../include/helpers.php:1580
+msgid "Reviews (percentage)"
+msgstr ""
+
+#: ../include/helpers.php:1881
+msgid "Top navigation menu"
+msgstr ""
+
+#: ../include/helpers.php:1882 ../include/helpers.php:1896
+#: ../include/menus.php:11
+msgid "Social menu"
+msgstr ""
+
+#: ../include/helpers.php:1883
+msgid "Search form"
+msgstr ""
+
+#: ../include/helpers.php:1895
+msgid "Footer menu"
+msgstr ""
+
+#: ../include/helpers.php:1897
+msgid "Copyright text"
+msgstr ""
+
+#: ../include/mega-menu.php:65
+msgid "Mega Menu (display posts from category)"
+msgstr ""
+
+#: ../include/mega-menu.php:71
+msgid "Mega Menu (classic)"
+msgstr ""
+
+#: ../include/menus.php:9
+msgid "Main Navigation"
+msgstr ""
+
+#: ../include/menus.php:10
+msgid "Top Menu"
+msgstr ""
+
+#: ../include/menus.php:12
+msgid "Footer Menu"
+msgstr ""
+
+#: ../include/menus.php:13
+msgid "404 Menu"
+msgstr ""
+
+#: ../include/metaboxes.php:42
+msgid "Featured Area/Slider"
+msgstr ""
+
+#: ../include/metaboxes.php:52
+msgid "Modules"
+msgstr ""
+
+#: ../include/metaboxes.php:62
+msgid "Authors"
+msgstr ""
+
+#: ../include/metaboxes.php:72
+msgid "Page Content/Editor Options"
+msgstr ""
+
+#: ../include/metaboxes.php:100
+msgid "Layout"
+msgstr ""
+
+#: ../include/metaboxes.php:110
+msgid "Display Options"
+msgstr ""
+
+#: ../include/metaboxes.php:141 ../include/metaboxes.php:661
+#: ../include/metaboxes.php:829 ../include/sections.php:1442
+#: ../include/sections.php:1750 ../include/sections.php:1955
+#: ../include/sections.php:2035 ../include/sections.php:2114
+#: ../include/sections.php:2193 ../include/sections.php:2325
+msgid "Sidebar layout"
+msgstr ""
+
+#: ../include/metaboxes.php:150 ../include/metaboxes.php:682
+#: ../include/metaboxes.php:855
+msgid "Choose standard sidebar to display"
+msgstr ""
+
+#: ../include/metaboxes.php:157 ../include/metaboxes.php:691
+#: ../include/metaboxes.php:868
+msgid "Choose sticky sidebar to display"
+msgstr ""
+
+#: ../include/metaboxes.php:181
+msgid "Choose a layout for this post"
+msgstr ""
+
+#: ../include/metaboxes.php:197 ../include/modules.php:33
+msgid "Choose layout"
+msgstr ""
+
+#: ../include/metaboxes.php:207 ../include/widgets/posts.php:192
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../include/metaboxes.php:209 ../include/modules.php:159
+msgid "Choose posts (or pages) manually"
+msgstr ""
+
+#: ../include/metaboxes.php:211 ../include/modules.php:162
+msgid ""
+"Specify post ids separated by comma if you want to select only those posts. "
+"i.e. 213,32,12,45"
+msgstr ""
+
+#: ../include/metaboxes.php:219 ../include/modules.php:92
+msgid "Filter by category"
+msgstr ""
+
+#: ../include/metaboxes.php:227 ../include/modules.php:100
+msgid "Apply child categories"
+msgstr ""
+
+#: ../include/metaboxes.php:228
+msgid ""
+"If parent category is selected, posts from child categories will be selected "
+"automatically"
+msgstr ""
+
+#: ../include/metaboxes.php:231 ../include/metaboxes.php:252
+#: ../include/modules.php:103 ../include/modules.php:125
+msgid "Include"
+msgstr ""
+
+#: ../include/metaboxes.php:232 ../include/metaboxes.php:253
+#: ../include/modules.php:104 ../include/modules.php:126
+msgid "Exclude"
+msgstr ""
+
+#: ../include/metaboxes.php:233 ../include/modules.php:105
+msgid "Wheter to include or exclude posts from selected categories"
+msgstr ""
+
+#: ../include/metaboxes.php:235 ../include/modules.php:108
+msgid "Filter by tag"
+msgstr ""
+
+#: ../include/metaboxes.php:238 ../include/metaboxes.php:442
+#: ../include/modules.php:111
+msgid "Tags"
+msgstr ""
+
+#: ../include/metaboxes.php:254 ../include/modules.php:127
+msgid "Wheter to include or exclude posts from selected tags"
+msgstr ""
+
+#: ../include/metaboxes.php:259
+msgid "Posts are not older than"
+msgstr ""
+
+#: ../include/metaboxes.php:264 ../include/modules.php:148
+msgid "Order posts by"
+msgstr ""
+
+#: ../include/metaboxes.php:271 ../include/modules.php:154
+msgid "Sort"
+msgstr ""
+
+#: ../include/metaboxes.php:272 ../include/modules.php:155
+msgid "Descending"
+msgstr ""
+
+#: ../include/metaboxes.php:273 ../include/modules.php:156
+msgid "Ascending"
+msgstr ""
+
+#: ../include/metaboxes.php:277 ../include/sections.php:1897
+msgid "Do not duplicate"
+msgstr ""
+
+#: ../include/metaboxes.php:279
+msgid ""
+"Check this option to always exclude featured area posts from modules below "
+"so they don't appear twice"
+msgstr ""
+
+#: ../include/metaboxes.php:303
+msgid "Order by"
+msgstr ""
+
+#: ../include/metaboxes.php:311
+msgid "Order"
+msgstr ""
+
+#: ../include/metaboxes.php:317
+msgid "Exclude authors"
+msgstr ""
+
+#: ../include/metaboxes.php:319
+msgid "Enter author IDs separated by comma"
+msgstr ""
+
+#: ../include/metaboxes.php:392
+msgid "Add posts module"
+msgstr ""
+
+#: ../include/metaboxes.php:392
+msgid "Add html/text module"
+msgstr ""
+
+#: ../include/metaboxes.php:410
+msgid "Display page content:"
+msgstr ""
+
+#: ../include/metaboxes.php:412
+msgid "Above modules"
+msgstr ""
+
+#: ../include/metaboxes.php:413
+msgid "Below modules"
+msgstr ""
+
+#: ../include/metaboxes.php:414
+msgid "Do not display"
+msgstr ""
+
+#: ../include/metaboxes.php:416
+msgid "Style:"
+msgstr ""
+
+#: ../include/metaboxes.php:418
+msgid "Wrapped in box"
+msgstr ""
+
+#: ../include/metaboxes.php:419
+msgid "Unwrapped (transparent background)"
+msgstr ""
+
+#: ../include/metaboxes.php:421
+msgid "Width:"
+msgstr ""
+
+#: ../include/metaboxes.php:423
+msgid "Container/page width"
+msgstr ""
+
+#: ../include/metaboxes.php:424
+msgid "Full/browser width"
+msgstr ""
+
+#: ../include/metaboxes.php:426
+msgid "Manage display options for content/editor on this page"
+msgstr ""
+
+#: ../include/metaboxes.php:437
+msgid ""
+"Override display options for this particular post instead of using global "
+"options set in Theme Options -> Single Post"
+msgstr ""
+
+#: ../include/metaboxes.php:438
+msgid "Category link"
+msgstr ""
+
+#: ../include/metaboxes.php:439
+msgid "Featured image"
+msgstr ""
+
+#: ../include/metaboxes.php:440
+msgid "Author image"
+msgstr ""
+
+#: ../include/metaboxes.php:441
+msgid "Headline (excerpt)"
+msgstr ""
+
+#: ../include/metaboxes.php:443
+msgid "Prev/next posts"
+msgstr ""
+
+#: ../include/metaboxes.php:444
+msgid "Related posts"
+msgstr ""
+
+#: ../include/metaboxes.php:445
+msgid "Author box"
+msgstr ""
+
+#: ../include/metaboxes.php:453
+msgid "On"
+msgstr ""
+
+#: ../include/metaboxes.php:453
+msgid "Off"
+msgstr ""
+
+#: ../include/metaboxes.php:600 ../include/metaboxes.php:742
+#: ../include/sections.php:1858
+msgid "Featured area layout"
+msgstr ""
+
+#: ../include/metaboxes.php:610 ../include/metaboxes.php:754
+msgid "Choose featured area layout"
+msgstr ""
+
+#: ../include/metaboxes.php:615
+msgid "Featured posts limit"
+msgstr ""
+
+#: ../include/metaboxes.php:616 ../include/metaboxes.php:636
+#: ../include/metaboxes.php:657 ../include/metaboxes.php:764
+#: ../include/metaboxes.php:792 ../include/metaboxes.php:822
+msgid "post(s)"
+msgstr ""
+
+#: ../include/metaboxes.php:620 ../include/metaboxes.php:770
+msgid "Posts main layout"
+msgstr ""
+
+#: ../include/metaboxes.php:630 ../include/metaboxes.php:782
+msgid "Choose posts layout for this category"
+msgstr ""
+
+#: ../include/metaboxes.php:635 ../include/metaboxes.php:789
+msgid "Number of posts per page"
+msgstr ""
+
+#: ../include/metaboxes.php:637 ../include/metaboxes.php:793
+msgid "Note: leave empty if you want to inherit from global category option"
+msgstr ""
+
+#: ../include/metaboxes.php:641
+msgid "Starter posts"
+msgstr ""
+
+#: ../include/metaboxes.php:651 ../include/metaboxes.php:812
+msgid "Check if you want to use starter posts"
+msgstr ""
+
+#: ../include/metaboxes.php:656 ../include/metaboxes.php:819
+msgid "Starter posts limit"
+msgstr ""
+
+#: ../include/metaboxes.php:671 ../include/metaboxes.php:841
+msgid "Choose sidebar layout"
+msgstr ""
+
+#: ../include/metaboxes.php:676 ../include/metaboxes.php:847
+msgid "Standard sidebar"
+msgstr ""
+
+#: ../include/metaboxes.php:685 ../include/metaboxes.php:860
+msgid "Sticky sidebar"
+msgstr ""
+
+#: ../include/metaboxes.php:702 ../include/metaboxes.php:879
+msgid "Recently used"
+msgstr ""
+
+#: ../include/metaboxes.php:712 ../include/metaboxes.php:889
+msgid "Color"
+msgstr ""
+
+#: ../include/metaboxes.php:713 ../include/metaboxes.php:891
+msgid "Inherit from default accent color"
+msgstr ""
+
+#: ../include/metaboxes.php:714 ../include/metaboxes.php:892
+msgid "Custom"
+msgstr ""
+
+#: ../include/metaboxes.php:722 ../include/metaboxes.php:900
+msgid "Choose color"
+msgstr ""
+
+#: ../include/metaboxes.php:761
+msgid "Featured area posts limit"
+msgstr ""
+
+#: ../include/metaboxes.php:799
+msgid "Starter posts layout"
+msgstr ""
+
+#: ../include/modules.php:13
+msgid "Appearance"
+msgstr ""
+
+#: ../include/modules.php:14
+msgid "Combine layouts"
+msgstr ""
+
+#: ../include/modules.php:15
+msgid "Post selection"
+msgstr ""
+
+#: ../include/modules.php:16
+msgid "Action"
+msgstr ""
+
+#: ../include/modules.php:17 ../include/modules.php:264
+msgid "Save Module"
+msgstr ""
+
+#: ../include/modules.php:22 ../include/modules.php:238
+#: ../include/widgets/adsense.php:63 ../include/widgets/posts.php:183
+#: ../include/widgets/video.php:80
+msgid "Title"
+msgstr ""
+
+#: ../include/modules.php:24 ../include/modules.php:240
+msgid "Do not display publicly"
+msgstr ""
+
+#: ../include/modules.php:25 ../include/modules.php:241
+msgid "Enter your module title"
+msgstr ""
+
+#: ../include/modules.php:29 ../include/modules.php:244
+msgid "Title link"
+msgstr ""
+
+#: ../include/modules.php:31 ../include/modules.php:246
+msgid "Optionally, you can assign URL to title"
+msgstr ""
+
+#: ../include/modules.php:45
+msgid "Choose your main posts layout"
+msgstr ""
+
+#: ../include/modules.php:47
+msgid "Max number of posts"
+msgstr ""
+
+#: ../include/modules.php:49
+msgid "Specify maximum number of posts for this module"
+msgstr ""
+
+#: ../include/modules.php:53 ../include/modules.php:255
+msgid "Make this module one-column (half width)"
+msgstr ""
+
+#: ../include/modules.php:54
+msgid ""
+"This option may apply to layouts C, D and F which are naturally listed in "
+"two columns"
+msgstr ""
+
+#: ../include/modules.php:58 ../include/modules.php:258
+msgid "Custom CSS class"
+msgstr ""
+
+#: ../include/modules.php:60 ../include/modules.php:260
+msgid ""
+"Specify class name for a possibility to apply custom styling to this module "
+"using CSS (i.e. my-custom-module)"
+msgstr ""
+
+#: ../include/modules.php:66
+msgid "Choose starter posts layout"
+msgstr ""
+
+#: ../include/modules.php:81 ../include/sections.php:1945
+msgid "Number of starter posts"
+msgstr ""
+
+#: ../include/modules.php:84
+msgid ""
+"Choose additional layout if you want to combine two layouts in same module "
+"so the first posts will be displayed in different layout"
+msgstr ""
+
+#: ../include/modules.php:99
+msgid ""
+"Check whether you want to display posts from specific categories only. Or "
+"leave empty for all categories."
+msgstr ""
+
+#: ../include/modules.php:101
+msgid ""
+"If parent category is selected, posts from child categories will be included "
+"automatically"
+msgstr ""
+
+#: ../include/modules.php:133
+msgid "Not older than"
+msgstr ""
+
+#: ../include/modules.php:137
+msgid "Display posts that are not older than some specific time"
+msgstr ""
+
+#: ../include/modules.php:141
+msgid "Older than"
+msgstr ""
+
+#: ../include/modules.php:145
+msgid "Display posts that are older than some specific time"
+msgstr ""
+
+#: ../include/modules.php:152
+msgid "Specify posts ordering"
+msgstr ""
+
+#: ../include/modules.php:166
+msgid "Do not duplicate (display only in this module)"
+msgstr ""
+
+#: ../include/modules.php:168
+msgid ""
+"Check this option if you want posts in this module to be excluded from other "
+"modules so they don't appear twice"
+msgstr ""
+
+#: ../include/modules.php:174
+msgid "Choose additional options"
+msgstr ""
+
+#: ../include/modules.php:182
+msgid "Choose pagination type"
+msgstr ""
+
+#: ../include/modules.php:193
+msgid "Note: Pagination can be added only for the last module on the page"
+msgstr ""
+
+#: ../include/modules.php:198
+msgid "Link/Button Text"
+msgstr ""
+
+#: ../include/modules.php:200
+msgid "Link/Button URL"
+msgstr ""
+
+#: ../include/modules.php:206
+msgid "Autoplay slider posts"
+msgstr ""
+
+#: ../include/modules.php:209
+msgid ""
+"Specify number of seconds if you want to auto-slide posts, or leave empty "
+"for no autoplay"
+msgstr ""
+
+#: ../include/modules.php:249
+msgid "Content"
+msgstr ""
+
+#: ../include/modules.php:251
+msgid "You can put any text, HTML, JavaScript or shortcodes here"
+msgstr ""
+
+#: ../include/modules.php:278
+msgid "Apply slider"
+msgstr ""
+
+#: ../include/modules.php:279
+msgid "Add pagination"
+msgstr ""
+
+#: ../include/modules.php:280
+msgid "Add action link"
+msgstr ""
+
+#: ../include/options.php:21
+#, php-format
+msgid "Voice Options%sTheme Documentation%s"
+msgstr ""
+
+#: ../include/options.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: ../include/options.php:26
+msgid "Voice Options"
+msgstr ""
+
+#: ../include/options.php:63
+msgid "Documentation"
+msgstr ""
+
+#: ../include/options.php:106
+#, php-format
+msgid ""
+"Use this panel to import content from theme demo example(s). Note: If you "
+"want to try multiple demos, please use %s plugin to reset your WordPress "
+"installation after each import and try another demo afterwards."
+msgstr ""
+
+#: ../include/options.php:121
+msgid "Voice Default"
+msgstr ""
+
+#: ../include/options.php:122
+msgid "Voice Minimal"
+msgstr ""
+
+#: ../include/options.php:123
+msgid "Voice Bold"
+msgstr ""
+
+#: ../include/plugins.php:116
+msgid "Install Recommended Plugins"
+msgstr ""
+
+#: ../include/plugins.php:117
+msgid "Voice Plugins"
+msgstr ""
+
+#: ../include/plugins.php:118
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../include/plugins.php:119
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../include/plugins.php:130
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../include/plugins.php:131
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../include/plugins.php:132
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../include/sections.php:16
+msgid "General"
+msgstr ""
+
+#: ../include/sections.php:17
+msgid "These are general theme settings"
+msgstr ""
+
+#: ../include/sections.php:23
+msgid "Responsive mode"
+msgstr ""
+
+#: ../include/sections.php:24
+msgid ""
+"Check if you want to make this theme compatible with smart phones and "
+"tablets or always use fixed width"
+msgstr ""
+
+#: ../include/sections.php:31
+msgid "RTL mode (right to left)"
+msgstr ""
+
+#: ../include/sections.php:32
+msgid "Enable this option if you are using right to left writing/reading"
+msgstr ""
+
+#: ../include/sections.php:38
+msgid "Skip RTL for specific language(s)"
+msgstr ""
+
+#: ../include/sections.php:39
+msgid ""
+"Paste specific WordPress language <a href=\"http://wpcentral.io/"
+"internationalization/\" target=\"_blank\">locale code</a> to exclude it from "
+"RTL mode"
+msgstr ""
+
+#: ../include/sections.php:40
+msgid ""
+"i.e. If you are using Arabic and English versions on the same WordPress "
+"installation you should put \"en_US\" in this field and its version will not "
+"be displayed as RTL. Note: To exclude multiple languages, separate by comma: "
+"en_US, de_DE"
+msgstr ""
+
+#: ../include/sections.php:49
+msgid "Additional sidebars"
+msgstr ""
+
+#: ../include/sections.php:50
+#, php-format
+msgid ""
+"Specify number of additional sidebars you want to use in this theme. You can "
+"manage your sidebars via <a href=\"%s\">Appearance -> Widgets</a>"
+msgstr ""
+
+#: ../include/sections.php:51
+msgid "Note: Leave empty for no additional sidebars."
+msgstr ""
+
+#: ../include/sections.php:59
+msgid "Branding"
+msgstr ""
+
+#: ../include/sections.php:60
+msgid "These are your branding options"
+msgstr ""
+
+#: ../include/sections.php:68
+msgid "Default featured image"
+msgstr ""
+
+#: ../include/sections.php:69
+msgid ""
+"Upload your default featured image/placeholder which will be displayed for "
+"posts which do not have featured image set"
+msgstr ""
+
+#: ../include/sections.php:70
+msgid "Note: Allowed extensions are .jpg and .png"
+msgstr ""
+
+#: ../include/sections.php:78
+msgid "Favicon"
+msgstr ""
+
+#: ../include/sections.php:79
+msgid "Upload your favicon here"
+msgstr ""
+
+#: ../include/sections.php:80
+msgid "Supported formats: .ico .gif .png"
+msgstr ""
+
+#: ../include/sections.php:87
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: ../include/sections.php:88
+msgid "Upload icon for the Apple touch"
+msgstr ""
+
+#: ../include/sections.php:89
+msgid "Size: 77x77"
+msgstr ""
+
+#: ../include/sections.php:97
+msgid "Metro Icon"
+msgstr ""
+
+#: ../include/sections.php:98
+msgid "Upload icon for the Metro interface"
+msgstr ""
+
+#: ../include/sections.php:99
+msgid "Size: 144x144"
+msgstr ""
+
+#: ../include/sections.php:107
+msgid "Advanced"
+msgstr ""
+
+#: ../include/sections.php:108
+msgid "These are options for advanced users only. Use it with caution"
+msgstr ""
+
+#: ../include/sections.php:115
+msgid "Additional CSS"
+msgstr ""
+
+#: ../include/sections.php:116
+msgid ""
+"Use this field to write or paste CSS code and modify default theme styling"
+msgstr ""
+
+#: ../include/sections.php:125
+msgid "Additional JavaScript"
+msgstr ""
+
+#: ../include/sections.php:126
+msgid ""
+"Use this field to write or paste additional JavaScript code to this theme"
+msgstr ""
+
+#: ../include/sections.php:127
+msgid "Note: Use for clean JavaScript execution code without \"script\" tags"
+msgstr ""
+
+#: ../include/sections.php:136
+msgid "Google Analytics tracking code"
+msgstr ""
+
+#: ../include/sections.php:137
+msgid ""
+"Paste your google analytics tracking code (or any other javascript related "
+"tracking code)"
+msgstr ""
+
+#: ../include/sections.php:138
+msgid "Note: Use with included \"script\" tags around the code"
+msgstr ""
+
+#: ../include/sections.php:148
+msgid "Generate image sizes"
+msgstr ""
+
+#: ../include/sections.php:149
+msgid ""
+"Check what image sizes you want to generate i.e. if you dont want to use big "
+"featured image, uncheck this option  (if you are not sure, it is highly "
+"recommended to leave all sizes checked)"
+msgstr ""
+
+#: ../include/sections.php:161
+msgid "Header Styling"
+msgstr ""
+
+#: ../include/sections.php:162
+msgid "These are options to modify and style your header area"
+msgstr ""
+
+#: ../include/sections.php:168
+msgid "Header layout"
+msgstr ""
+
+#: ../include/sections.php:169
+msgid "Choose header layout"
+msgstr ""
+
+#: ../include/sections.php:171
+msgid "1 (centered)"
+msgstr ""
+
+#: ../include/sections.php:172
+msgid "2 (with ad space)"
+msgstr ""
+
+#: ../include/sections.php:173
+msgid "3 (minimal)"
+msgstr ""
+
+#: ../include/sections.php:182
+msgid "Header height"
+msgstr ""
+
+#: ../include/sections.php:183
+msgid "Specify height for your header area"
+msgstr ""
+
+#: ../include/sections.php:184
+msgid "Note: Height value is in px."
+msgstr ""
+
+#: ../include/sections.php:192
+msgid "Header ad space"
+msgstr ""
+
+#: ../include/sections.php:193
+msgid "This is a place for header banner ad"
+msgstr ""
+
+#: ../include/sections.php:195
+msgid ""
+"Note: If you want to paste HTML or js code, use \"text\" mode in editor. "
+"Suggested size of an ad banner is 728x90"
+msgstr ""
+
+#: ../include/sections.php:207
+msgid "Logo"
+msgstr ""
+
+#: ../include/sections.php:208
+msgid ""
+"Upload your logo image here, or leave empty to show website title instead"
+msgstr ""
+
+#: ../include/sections.php:216
+msgid "Retina logo (2x)"
+msgstr ""
+
+#: ../include/sections.php:217
+msgid ""
+"Optionally upload another logo for devices with retina displays. It should "
+"be double size of your normal logo."
+msgstr ""
+
+#: ../include/sections.php:225
+msgid "Mobile logo"
+msgstr ""
+
+#: ../include/sections.php:226
+msgid ""
+"Optionally upload another logo which will be displayed only for mobiles and "
+"tablets"
+msgstr ""
+
+#: ../include/sections.php:234
+msgid "Mobile retina logo (2x)"
+msgstr ""
+
+#: ../include/sections.php:235
+msgid ""
+"Optionally upload another mobile logo which will be displayed only for "
+"mobiles and tablets with retina displays."
+msgstr ""
+
+#: ../include/sections.php:242
+msgid "Logo/title position"
+msgstr ""
+
+#: ../include/sections.php:243
+msgid ""
+"Specify left and top positions for your logo/website title placement inside "
+"header"
+msgstr ""
+
+#: ../include/sections.php:255
+msgid "Logo/title custom URL"
+msgstr ""
+
+#: ../include/sections.php:256
+msgid ""
+"Specify url if you want to link your logo/website title to some other URL "
+"address. By default it will lead to your home page."
+msgstr ""
+
+#: ../include/sections.php:264
+msgid "Site title color"
+msgstr ""
+
+#: ../include/sections.php:265
+msgid "Specify color for your website title (if logo is not used)"
+msgstr ""
+
+#: ../include/sections.php:273
+msgid "Display site description"
+msgstr ""
+
+#: ../include/sections.php:274
+msgid "Check if you want to display site description (below logo/title)"
+msgstr ""
+
+#: ../include/sections.php:275
+#, php-format
+msgid ""
+"Note: You can specify your site description inside <a href=\"%s\">Settings -"
+"> General</a>"
+msgstr ""
+
+#: ../include/sections.php:282
+msgid "Site description color"
+msgstr ""
+
+#: ../include/sections.php:291
+msgid "Display search"
+msgstr ""
+
+#: ../include/sections.php:292
+msgid "Check if you want to display search icon after main navigation"
+msgstr ""
+
+#: ../include/sections.php:299
+msgid "Header background"
+msgstr ""
+
+#: ../include/sections.php:300
+msgid "This option applies to your main header area"
+msgstr ""
+
+#: ../include/sections.php:308
+msgid "Sticky header"
+msgstr ""
+
+#: ../include/sections.php:309
+msgid "Check if you want to make main navigation always visible (sticky)"
+msgstr ""
+
+#: ../include/sections.php:317
+msgid "Sticky header offset"
+msgstr ""
+
+#: ../include/sections.php:318
+msgid "Specify after how many px of scrolling sticky header appears"
+msgstr ""
+
+#: ../include/sections.php:328
+msgid "Sticky header logo"
+msgstr ""
+
+#: ../include/sections.php:329
+msgid ""
+"Optionally upload your logo image if you want to have different logo in "
+"sticky header instead of main logo"
+msgstr ""
+
+#: ../include/sections.php:330
+msgid ""
+"Note: Optimal logo height is 40px. Allowed extensions are .jpg, .png and .gif"
+msgstr ""
+
+#: ../include/sections.php:338
+msgid "Enable header top bar"
+msgstr ""
+
+#: ../include/sections.php:339
+msgid "Check if you want to enable header top bar"
+msgstr ""
+
+#: ../include/sections.php:346
+msgid "Top bar left"
+msgstr ""
+
+#: ../include/sections.php:347
+msgid "Choose what to display in top bar left area"
+msgstr ""
+
+#: ../include/sections.php:355
+msgid "Top bar center"
+msgstr ""
+
+#: ../include/sections.php:356
+msgid "Choose what to display in top bar center area"
+msgstr ""
+
+#: ../include/sections.php:364
+msgid "Top bar right"
+msgstr ""
+
+#: ../include/sections.php:365
+msgid "Choose what to display in top bar right area"
+msgstr ""
+
+#: ../include/sections.php:374
+msgid "Top bar background color"
+msgstr ""
+
+#: ../include/sections.php:383
+msgid "Top bar text color"
+msgstr ""
+
+#: ../include/sections.php:392
+msgid "Navigation options"
+msgstr ""
+
+#: ../include/sections.php:393
+msgid "Manage options for the main nav menu"
+msgstr ""
+
+#: ../include/sections.php:400
+msgid "Navigation background"
+msgstr ""
+
+#: ../include/sections.php:401 ../include/sections.php:412
+msgid "This option applies to your navigation"
+msgstr ""
+
+#: ../include/sections.php:411
+msgid "Navigation color"
+msgstr ""
+
+#: ../include/sections.php:420
+msgid "Navigation accent color"
+msgstr ""
+
+#: ../include/sections.php:421
+msgid "This option applies to your navigation links hover"
+msgstr ""
+
+#: ../include/sections.php:429
+msgid "Apply category colors as accent color"
+msgstr ""
+
+#: ../include/sections.php:430
+msgid ""
+"Check this option if you want to show actual category colors instead of "
+"accent color if category link is added in navigation"
+msgstr ""
+
+#: ../include/sections.php:437
+msgid "Navigation submenu background"
+msgstr ""
+
+#: ../include/sections.php:438
+msgid "This option applies to your submenu items"
+msgstr ""
+
+#: ../include/sections.php:446
+msgid "Use mega menu navigation"
+msgstr ""
+
+#: ../include/sections.php:447
+msgid "Check if you want to use our built in mega menu system in navigation"
+msgstr ""
+
+#: ../include/sections.php:448
+msgid ""
+"Note: You may want to set this option to off if you are using some other "
+"menu/navigation specific plugins and avoid possible conflicts"
+msgstr ""
+
+#: ../include/sections.php:455
+msgid "Use Ajax for mega menu"
+msgstr ""
+
+#: ../include/sections.php:456
+msgid "Check if you want to load mega menu via ajax"
+msgstr ""
+
+#: ../include/sections.php:457
+msgid ""
+"Note: Enabling this options will cause a small delay when displaying mega "
+"menu"
+msgstr ""
+
+#: ../include/sections.php:465
+msgid "Show subcategories in mega menu"
+msgstr ""
+
+#: ../include/sections.php:466
+msgid "Check if you want to show subcategories instead of first post"
+msgstr ""
+
+#: ../include/sections.php:474
+msgid "Activate slider for mega-menu-posts"
+msgstr ""
+
+#: ../include/sections.php:475
+msgid "Check if you want to show posts as a slider"
+msgstr ""
+
+#: ../include/sections.php:484
+msgid "Number of posts in mega menu slider"
+msgstr ""
+
+#: ../include/sections.php:485
+msgid "Specify number of posts to display in the mega menu"
+msgstr ""
+
+#: ../include/sections.php:497
+msgid "Content Styling"
+msgstr ""
+
+#: ../include/sections.php:498
+msgid "These are options to tyle your main content area"
+msgstr ""
+
+#: ../include/sections.php:504
+msgid "Body background"
+msgstr ""
+
+#: ../include/sections.php:505
+msgid "Setup your body background color, image, pattern..."
+msgstr ""
+
+#: ../include/sections.php:513
+msgid "Box/module headings background"
+msgstr ""
+
+#: ../include/sections.php:514
+msgid "This option apply to module headings background"
+msgstr ""
+
+#: ../include/sections.php:521
+msgid "Box/module headings text"
+msgstr ""
+
+#: ../include/sections.php:522
+msgid "This option apply to module headings text"
+msgstr ""
+
+#: ../include/sections.php:530
+msgid "Box/module background"
+msgstr ""
+
+#: ../include/sections.php:531
+msgid "Specify main boxes background color"
+msgstr ""
+
+#: ../include/sections.php:539
+msgid "Post/content background"
+msgstr ""
+
+#: ../include/sections.php:540
+msgid "Specify background color for posts, pages, etc"
+msgstr ""
+
+#: ../include/sections.php:548
+msgid "Post titles/h-elements"
+msgstr ""
+
+#: ../include/sections.php:549
+msgid "Specify color for posts/page titles, h1,h2,h3,etc..."
+msgstr ""
+
+#: ../include/sections.php:557
+msgid "Post/content text"
+msgstr ""
+
+#: ../include/sections.php:558
+msgid "This color applies to standard post/content text"
+msgstr ""
+
+#: ../include/sections.php:566 ../include/sections.php:721
+msgid "Accent color"
+msgstr ""
+
+#: ../include/sections.php:567
+msgid "This color applies to links, buttons, special elements, etc..."
+msgstr ""
+
+#: ../include/sections.php:575
+msgid "Meta color"
+msgstr ""
+
+#: ../include/sections.php:576
+msgid ""
+"This color applies to meta data such as date, comments link, views, etc..."
+msgstr ""
+
+#: ../include/sections.php:584
+msgid "Pagination/actions background"
+msgstr ""
+
+#: ../include/sections.php:585
+msgid ""
+"This color applies to third level/bottom area of boxes which has pagination, "
+"buttons, etc..."
+msgstr ""
+
+#: ../include/sections.php:598
+msgid "Sidebar Styling"
+msgstr ""
+
+#: ../include/sections.php:599
+msgid "These are styling settings for your sidebar/widgets"
+msgstr ""
+
+#: ../include/sections.php:605
+msgid "Widget title background"
+msgstr ""
+
+#: ../include/sections.php:606
+msgid "Specify widget title background color"
+msgstr ""
+
+#: ../include/sections.php:613
+msgid "Widget title text"
+msgstr ""
+
+#: ../include/sections.php:614
+msgid "Specify widget title text color"
+msgstr ""
+
+#: ../include/sections.php:621
+msgid "Widget background"
+msgstr ""
+
+#: ../include/sections.php:622
+msgid "Specify widget background color"
+msgstr ""
+
+#: ../include/sections.php:629
+msgid "Widget text"
+msgstr ""
+
+#: ../include/sections.php:630
+msgid "Specify widget text color"
+msgstr ""
+
+#: ../include/sections.php:638
+msgid "Widget accent"
+msgstr ""
+
+#: ../include/sections.php:639
+msgid "This color will apply to link hovers, buttons, etc..."
+msgstr ""
+
+#: ../include/sections.php:647
+msgid "Sub-level background"
+msgstr ""
+
+#: ../include/sections.php:648
+msgid ""
+"This color will apply to additional area used at the bottom of some widgets"
+msgstr ""
+
+#: ../include/sections.php:660
+msgid "Footer Styling"
+msgstr ""
+
+#: ../include/sections.php:661
+msgid "Manage settings for footer area"
+msgstr ""
+
+#: ../include/sections.php:668
+msgid "Enable Footer"
+msgstr ""
+
+#: ../include/sections.php:669
+#, php-format
+msgid ""
+"Check if you want to include footer area in your theme. You can manage "
+"footer area content in <a href=\"%s\">Apperance -> Widgets</a> settings."
+msgstr ""
+
+#: ../include/sections.php:676
+msgid "Footer Columns"
+msgstr ""
+
+#: ../include/sections.php:677
+msgid "Choose number of columns in footer area"
+msgstr ""
+
+#: ../include/sections.php:678
+#, php-format
+msgid ""
+"Note: Each column represents one Footer Sidebar in <a href=\"%s\">Apperance -"
+"> Widgets</a> settings."
+msgstr ""
+
+#: ../include/sections.php:680
+msgid "1 Column"
+msgstr ""
+
+#: ../include/sections.php:681
+msgid "2 Columns (1/2 + 1/2)"
+msgstr ""
+
+#: ../include/sections.php:682
+msgid "2 Columns (1/3 + 2/3)"
+msgstr ""
+
+#: ../include/sections.php:683
+msgid "2 Columns (2/3 + 1/3)"
+msgstr ""
+
+#: ../include/sections.php:684
+msgid "3 Columns"
+msgstr ""
+
+#: ../include/sections.php:693
+msgid "Footer background"
+msgstr ""
+
+#: ../include/sections.php:694
+msgid "Specify footer background color"
+msgstr ""
+
+#: ../include/sections.php:703
+msgid "Headings text color"
+msgstr ""
+
+#: ../include/sections.php:704
+msgid "This color will apply to footer widget titles, headings, etc..."
+msgstr ""
+
+#: ../include/sections.php:712
+msgid "Text color"
+msgstr ""
+
+#: ../include/sections.php:713
+msgid "This is standard text color for footer"
+msgstr ""
+
+#: ../include/sections.php:722
+msgid "This color will apply to buttons, links, etc..."
+msgstr ""
+
+#: ../include/sections.php:731
+msgid "Enable bottom bar / copyright area"
+msgstr ""
+
+#: ../include/sections.php:732
+msgid "Check if you want to include copyright area below footer"
+msgstr ""
+
+#: ../include/sections.php:739
+msgid "Copyright"
+msgstr ""
+
+#: ../include/sections.php:740
+msgid "Specify some copyright text to show at the bottom of the website"
+msgstr ""
+
+#: ../include/sections.php:741
+msgid ""
+"Copyright &copy; 2014. Created by <a href=\"http://mekshq.com\" target="
+"\"_blank\">Meks</a>. Powered by <a href=\"http://www.wordpress.org\" target="
+"\"_blank\">WordPress</a>."
+msgstr ""
+
+#: ../include/sections.php:752
+msgid "Bottom bar left"
+msgstr ""
+
+#: ../include/sections.php:753
+msgid "Choose what to display in copyright bar left area"
+msgstr ""
+
+#: ../include/sections.php:762
+msgid "Bottom bar center"
+msgstr ""
+
+#: ../include/sections.php:763
+msgid "Choose what to display in copyright bar center area"
+msgstr ""
+
+#: ../include/sections.php:772
+msgid "Bottom bar right"
+msgstr ""
+
+#: ../include/sections.php:773
+msgid "Choose what to display in copyright bar right area"
+msgstr ""
+
+#: ../include/sections.php:787
+msgid "Post Layouts"
+msgstr ""
+
+#: ../include/sections.php:794
+msgid "Featured area (big/full-width posts)"
+msgstr ""
+
+#: ../include/sections.php:795
+msgid "Manage options for big post(s) displayed in featured area"
+msgstr ""
+
+#: ../include/sections.php:802 ../include/sections.php:868
+#: ../include/sections.php:942 ../include/sections.php:1029
+#: ../include/sections.php:1094 ../include/sections.php:1170
+#: ../include/sections.php:1280 ../include/sections.php:1347
+msgid "Display category"
+msgstr ""
+
+#: ../include/sections.php:803
+msgid "Check if you want to display category link for featured area main post"
+msgstr ""
+
+#: ../include/sections.php:811 ../include/sections.php:877
+#: ../include/sections.php:951 ../include/sections.php:1038
+#: ../include/sections.php:1103 ../include/sections.php:1179
+#: ../include/sections.php:1224 ../include/sections.php:1262
+#: ../include/sections.php:1289 ../include/sections.php:1356
+msgid "Post titles limit"
+msgstr ""
+
+#: ../include/sections.php:812
+msgid ""
+"Specify number of characters to limit post titles for featured area main "
+"posts"
+msgstr ""
+
+#: ../include/sections.php:813 ../include/sections.php:879
+#: ../include/sections.php:953 ../include/sections.php:1291
+msgid "Note: Leave empty if you want to show full titles."
+msgstr ""
+
+#: ../include/sections.php:822 ../include/sections.php:888
+#: ../include/sections.php:962 ../include/sections.php:1049
+#: ../include/sections.php:1115 ../include/sections.php:1190
+#: ../include/sections.php:1235 ../include/sections.php:1300
+#: ../include/sections.php:1368 ../include/sections.php:1473
+msgid "Meta data"
+msgstr ""
+
+#: ../include/sections.php:823
+msgid "Check which meta data to show for featured area main posts"
+msgstr ""
+
+#: ../include/sections.php:832 ../include/sections.php:906
+msgid "Autoplay slides"
+msgstr ""
+
+#: ../include/sections.php:833
+msgid ""
+"Specify number of seconds if you want to enable automatic sliding for "
+"featured area main posts"
+msgstr ""
+
+#: ../include/sections.php:834 ../include/sections.php:908
+msgid ""
+"i.e. Put \"5\" to auto slide each 5 seconds or leave empty for no autoplay"
+msgstr ""
+
+#: ../include/sections.php:841 ../include/sections.php:916
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../include/sections.php:842 ../include/sections.php:917
+msgid "Choose values for image overlay opacity"
+msgstr ""
+
+#: ../include/sections.php:843 ../include/sections.php:918
+msgid "Note: First value is for initial opacity, second one is for image hover"
+msgstr ""
+
+#: ../include/sections.php:860
+msgid "Featured area (grid slider)"
+msgstr ""
+
+#: ../include/sections.php:861
+msgid "Manage options for posts displayed in featured area grid/slider"
+msgstr ""
+
+#: ../include/sections.php:869
+msgid ""
+"Check if you want to display category link for posts in featured area grid/"
+"slider"
+msgstr ""
+
+#: ../include/sections.php:878
+msgid ""
+"Specify number of characters to limit post titles for featured area grid/"
+"slider"
+msgstr ""
+
+#: ../include/sections.php:889
+msgid "Check which meta data to show for posts in featured area grid/slider"
+msgstr ""
+
+#: ../include/sections.php:897
+msgid "Center text vertically"
+msgstr ""
+
+#: ../include/sections.php:898
+msgid "Check if you want to always center the text vertically over the image "
+msgstr ""
+
+#: ../include/sections.php:907
+msgid ""
+"Specify number of seconds if you want to enable automatic sliding for "
+"featured area grid/slider"
+msgstr ""
+
+#: ../include/sections.php:935
+msgid "Manage options for posts displayed in layout A"
+msgstr ""
+
+#: ../include/sections.php:943
+msgid "Check if you want to display category link for posts in layout A"
+msgstr ""
+
+#: ../include/sections.php:952
+msgid "Specify number of characters to limit post titles for layout A"
+msgstr ""
+
+#: ../include/sections.php:963
+msgid "Check which meta data to show for posts in layout A"
+msgstr ""
+
+#: ../include/sections.php:971
+msgid "Layout A content type"
+msgstr ""
+
+#: ../include/sections.php:972
+msgid "Check how would you like to display post content for Layout A"
+msgstr ""
+
+#: ../include/sections.php:974
+msgid "Content (manually split with \"<--more-->\" tag)"
+msgstr ""
+
+#: ../include/sections.php:975
+msgid "Excerpt (automatically limit number of characters)"
+msgstr ""
+
+#: ../include/sections.php:983 ../include/sections.php:1058
+#: ../include/sections.php:1124 ../include/sections.php:1309
+#: ../include/sections.php:1377
+msgid "Display excerpt"
+msgstr ""
+
+#: ../include/sections.php:984
+msgid "Check if you want to display text excerpt for posts in layout A"
+msgstr ""
+
+#: ../include/sections.php:994 ../include/sections.php:1067
+#: ../include/sections.php:1141 ../include/sections.php:1318
+#: ../include/sections.php:1386
+msgid "Excerpt limit"
+msgstr ""
+
+#: ../include/sections.php:995
+msgid "Specify your excerpt limit if you are using excerpts on blog posts"
+msgstr ""
+
+#: ../include/sections.php:996 ../include/sections.php:1069
+#: ../include/sections.php:1143 ../include/sections.php:1320
+#: ../include/sections.php:1388
+msgid "Note: Value represents number of characters"
+msgstr ""
+
+#: ../include/sections.php:1005 ../include/sections.php:1132
+msgid "Display read more link"
+msgstr ""
+
+#: ../include/sections.php:1006
+msgid "Check if you want to display \"read more\" link for posts in layout C"
+msgstr ""
+
+#: ../include/sections.php:1013 ../include/sections.php:1078
+#: ../include/sections.php:1153 ../include/sections.php:1199
+#: ../include/sections.php:1244 ../include/sections.php:1329
+msgid "Display post format icon"
+msgstr ""
+
+#: ../include/sections.php:1014
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout A"
+msgstr ""
+
+#: ../include/sections.php:1022
+msgid "Manage options for layout B"
+msgstr ""
+
+#: ../include/sections.php:1030
+msgid "Check if you want to display category link for posts in layout B"
+msgstr ""
+
+#: ../include/sections.php:1039
+msgid "Specify number of characters to limit post titles for layout B"
+msgstr ""
+
+#: ../include/sections.php:1040 ../include/sections.php:1105
+#: ../include/sections.php:1181 ../include/sections.php:1226
+#: ../include/sections.php:1264 ../include/sections.php:1358
+msgid ""
+"Note: Value represents number of characters. Leave empty if you want to show "
+"full titles."
+msgstr ""
+
+#: ../include/sections.php:1050
+msgid "Check which meta data to show for layout B"
+msgstr ""
+
+#: ../include/sections.php:1059
+msgid "Check if you want to display text excerpt for posts in layout B"
+msgstr ""
+
+#: ../include/sections.php:1068
+msgid "Specify your post excerpt limit for layout B"
+msgstr ""
+
+#: ../include/sections.php:1079
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout B"
+msgstr ""
+
+#: ../include/sections.php:1087
+msgid "Manage options for layout C"
+msgstr ""
+
+#: ../include/sections.php:1095
+msgid "Check if you want to display category link for posts in layout C"
+msgstr ""
+
+#: ../include/sections.php:1104
+msgid "Specify number of characters to limit post titles for layout C"
+msgstr ""
+
+#: ../include/sections.php:1116
+msgid "Check which meta data to show for layout C"
+msgstr ""
+
+#: ../include/sections.php:1125
+msgid "Check if you want to display text excerpt for posts in layout C"
+msgstr ""
+
+#: ../include/sections.php:1133
+msgid "Check if you want to display \"read more\" link for posts in layout A"
+msgstr ""
+
+#: ../include/sections.php:1142
+msgid "Specify your post excerpt limit for layout C"
+msgstr ""
+
+#: ../include/sections.php:1154
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout C"
+msgstr ""
+
+#: ../include/sections.php:1163
+msgid "Manage options for layout D"
+msgstr ""
+
+#: ../include/sections.php:1171
+msgid "Check if you want to display category link for posts in layout D"
+msgstr ""
+
+#: ../include/sections.php:1180
+msgid "Specify number of characters to limit post titles for layout D"
+msgstr ""
+
+#: ../include/sections.php:1191
+msgid "Check which meta data to show for layout D"
+msgstr ""
+
+#: ../include/sections.php:1200
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout D"
+msgstr ""
+
+#: ../include/sections.php:1208
+msgid "Manage options for layout E"
+msgstr ""
+
+#: ../include/sections.php:1215
+msgid "Display post title"
+msgstr ""
+
+#: ../include/sections.php:1216
+msgid "Check if you want to display post title posts in layout E"
+msgstr ""
+
+#: ../include/sections.php:1225
+msgid "Specify number of characters to limit post titles for layout E"
+msgstr ""
+
+#: ../include/sections.php:1236
+msgid "Check which meta data to show for layout E"
+msgstr ""
+
+#: ../include/sections.php:1245
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout E"
+msgstr ""
+
+#: ../include/sections.php:1253
+msgid "Manage options for layout F"
+msgstr ""
+
+#: ../include/sections.php:1263
+msgid "Specify number of characters to limit post titles for layout F"
+msgstr ""
+
+#: ../include/sections.php:1273
+msgid "Manage options for posts displayed in layout G"
+msgstr ""
+
+#: ../include/sections.php:1281
+msgid "Check if you want to display category link for posts in layout G"
+msgstr ""
+
+#: ../include/sections.php:1290
+msgid "Specify number of characters to limit post titles for layout G"
+msgstr ""
+
+#: ../include/sections.php:1301
+msgid "Check which meta data to show for posts in layout G"
+msgstr ""
+
+#: ../include/sections.php:1310
+msgid "Check if you want to display text excerpt for posts in layout G"
+msgstr ""
+
+#: ../include/sections.php:1319
+msgid "Specify your post excerpt limit for layout G"
+msgstr ""
+
+#: ../include/sections.php:1330
+msgid ""
+"Check if you want to display post format icon (video, audio...) for posts in "
+"layout G"
+msgstr ""
+
+#: ../include/sections.php:1340
+msgid "Manage options for layout H"
+msgstr ""
+
+#: ../include/sections.php:1348
+msgid "Check if you want to display category link for posts in layout H"
+msgstr ""
+
+#: ../include/sections.php:1357
+msgid "Specify number of characters to limit post titles for layout H"
+msgstr ""
+
+#: ../include/sections.php:1369
+msgid "Check which meta data to show for layout H"
+msgstr ""
+
+#: ../include/sections.php:1378
+msgid "Check if you want to display text excerpt for posts in layout H"
+msgstr ""
+
+#: ../include/sections.php:1387
+msgid "Specify your post excerpt limit for layout H"
+msgstr ""
+
+#: ../include/sections.php:1401
+msgid "Single Post"
+msgstr ""
+
+#: ../include/sections.php:1402
+msgid "Manage settings for single post template"
+msgstr ""
+
+#: ../include/sections.php:1408
+msgid "Single post layout"
+msgstr ""
+
+#: ../include/sections.php:1409
+msgid "Choose default layout for your single posts"
+msgstr ""
+
+#: ../include/sections.php:1410 ../include/sections.php:1444
+msgid "Note: You can override this option for each particular post"
+msgstr ""
+
+#: ../include/sections.php:1418
+msgid "Content width (with sidebar)"
+msgstr ""
+
+#: ../include/sections.php:1419
+msgid "Choose post content width for posts which have sidebar included"
+msgstr ""
+
+#: ../include/sections.php:1420 ../include/sections.php:1432
+#: ../include/sections.php:1728 ../include/sections.php:1740
+msgid "Note: Value is in px."
+msgstr ""
+
+#: ../include/sections.php:1430
+msgid "Content width (without sidebar)"
+msgstr ""
+
+#: ../include/sections.php:1431
+msgid ""
+"Choose post content width for posts which don't have sidebar included (full "
+"width posts)"
+msgstr ""
+
+#: ../include/sections.php:1443
+msgid "Choose default sidebar layout for single posts"
+msgstr ""
+
+#: ../include/sections.php:1452
+msgid "Post standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1453
+msgid "Choose single post standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1462
+msgid "Post sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1463
+msgid "Choose single post sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1474
+msgid "Check which meta data to show for single post"
+msgstr ""
+
+#: ../include/sections.php:1482 ../include/widgets/posts.php:248
+msgid "Display category link"
+msgstr ""
+
+#: ../include/sections.php:1483
+msgid "Choose if you want to display category link"
+msgstr ""
+
+#: ../include/sections.php:1490 ../include/sections.php:1780
+msgid "Display featured image"
+msgstr ""
+
+#: ../include/sections.php:1491
+msgid "Choose if you want to display featured image"
+msgstr ""
+
+#: ../include/sections.php:1498 ../include/sections.php:1788
+msgid "Display featured image caption"
+msgstr ""
+
+#: ../include/sections.php:1499 ../include/sections.php:1789
+msgid "Choose if you want to display caption/description on featured image"
+msgstr ""
+
+#: ../include/sections.php:1507
+msgid "Display author image"
+msgstr ""
+
+#: ../include/sections.php:1508
+msgid "Choose if you want to display author image below featured image"
+msgstr ""
+
+#: ../include/sections.php:1515
+msgid "Display headline (exceprt)"
+msgstr ""
+
+#: ../include/sections.php:1516
+msgid ""
+"Choose if you want to display headline (post exceprt) before main post "
+"content"
+msgstr ""
+
+#: ../include/sections.php:1523
+msgid "Display tags"
+msgstr ""
+
+#: ../include/sections.php:1524
+msgid "Choose if you want to display tags below post content"
+msgstr ""
+
+#: ../include/sections.php:1531 ../include/sections.php:1806
+msgid "Display share buttons"
+msgstr ""
+
+#: ../include/sections.php:1532 ../include/sections.php:1807
+msgid "Choose if you want to display social share buttons"
+msgstr ""
+
+#: ../include/sections.php:1540 ../include/sections.php:1815
+msgid "Social share buttons"
+msgstr ""
+
+#: ../include/sections.php:1541
+msgid "Check which social networks you want to use for sharing your posts"
+msgstr ""
+
+#: ../include/sections.php:1543 ../include/sections.php:1818
+msgid "Facebook"
+msgstr ""
+
+#: ../include/sections.php:1544 ../include/sections.php:1819
+msgid "Twitter"
+msgstr ""
+
+#: ../include/sections.php:1545 ../include/sections.php:1820
+msgid "Google+"
+msgstr ""
+
+#: ../include/sections.php:1546 ../include/sections.php:1821
+msgid "Pinterest"
+msgstr ""
+
+#: ../include/sections.php:1547 ../include/sections.php:1822
+msgid "LinkedIN"
+msgstr ""
+
+#: ../include/sections.php:1548 ../include/sections.php:1823
+msgid "WhatsApp"
+msgstr ""
+
+#: ../include/sections.php:1564
+msgid "Display previous/next post links"
+msgstr ""
+
+#: ../include/sections.php:1565
+msgid ""
+"Choose if you want to display previous and next post links for current post."
+msgstr ""
+
+#: ../include/sections.php:1571
+msgid "Previous/next links to posts from same category?"
+msgstr ""
+
+#: ../include/sections.php:1572
+msgid ""
+"Check if you want previous and next post links to display only posts from "
+"same category."
+msgstr ""
+
+#: ../include/sections.php:1581
+msgid "Display author box"
+msgstr ""
+
+#: ../include/sections.php:1582
+msgid "Choose if you want to display \"about author\" area below post content."
+msgstr ""
+
+#: ../include/sections.php:1589
+msgid "Author box position"
+msgstr ""
+
+#: ../include/sections.php:1590
+msgid "Choose where to display author box"
+msgstr ""
+
+#: ../include/sections.php:1592
+msgid "Above related posts"
+msgstr ""
+
+#: ../include/sections.php:1593
+msgid "Below related posts"
+msgstr ""
+
+#: ../include/sections.php:1602
+msgid "Comment form on top"
+msgstr ""
+
+#: ../include/sections.php:1603
+msgid "Choose if you want to display the comment form before comments"
+msgstr ""
+
+#: ../include/sections.php:1610
+msgid "Related Posts"
+msgstr ""
+
+#: ../include/sections.php:1611
+msgid "Manage options for related posts area"
+msgstr ""
+
+#: ../include/sections.php:1618
+msgid "Display \"related\" posts box"
+msgstr ""
+
+#: ../include/sections.php:1619
+msgid ""
+"Choose if you want to display additional area with related posts below post "
+"content"
+msgstr ""
+
+#: ../include/sections.php:1627
+msgid "Related area posts layout"
+msgstr ""
+
+#: ../include/sections.php:1637
+msgid "Related area posts number limit"
+msgstr ""
+
+#: ../include/sections.php:1646
+msgid "Related area chooses from"
+msgstr ""
+
+#: ../include/sections.php:1648
+msgid "Posts located in same category"
+msgstr ""
+
+#: ../include/sections.php:1649
+msgid "Posts tagged with at least one same tag"
+msgstr ""
+
+#: ../include/sections.php:1650
+msgid "Posts located in same category OR tagged with same tag"
+msgstr ""
+
+#: ../include/sections.php:1651
+msgid "Posts located in same category AND tagged with same tag"
+msgstr ""
+
+#: ../include/sections.php:1652
+msgid "Posts by same author"
+msgstr ""
+
+#: ../include/sections.php:1653
+msgid "All posts"
+msgstr ""
+
+#: ../include/sections.php:1662
+msgid "Related posts are ordered by"
+msgstr ""
+
+#: ../include/sections.php:1671
+msgid "Related posts are not older than"
+msgstr ""
+
+#: ../include/sections.php:1680
+msgid "Paginated/Multipage Posts"
+msgstr ""
+
+#: ../include/sections.php:1681
+msgid ""
+"These are options which apply to your posts split with \"&lt;!--nextpage--"
+"&gt; tag\""
+msgstr ""
+
+#: ../include/sections.php:1688
+msgid "Display navigation for paginated posts"
+msgstr ""
+
+#: ../include/sections.php:1689
+msgid "Choose where to display navigation for paginated/multi-page posts"
+msgstr ""
+
+#: ../include/sections.php:1691
+msgid "Above post content"
+msgstr ""
+
+#: ../include/sections.php:1692
+msgid "Below post content"
+msgstr ""
+
+#: ../include/sections.php:1700
+msgid "Display featured image on first page of paginated post"
+msgstr ""
+
+#: ../include/sections.php:1701
+msgid ""
+"Check if you want to display featured image/author image on the first page "
+"of paginated/multi page posts"
+msgstr ""
+
+#: ../include/sections.php:1708
+msgid "Display headline/excerpt on first page of paginated post"
+msgstr ""
+
+#: ../include/sections.php:1709
+msgid ""
+"Check if you want to display headline/excerp on the first page of paginated/"
+"multi page posts"
+msgstr ""
+
+#: ../include/sections.php:1719
+msgid "Page Templates"
+msgstr ""
+
+#: ../include/sections.php:1720
+msgid "Manage default settings for your pages (page templates)"
+msgstr ""
+
+#: ../include/sections.php:1726
+msgid "Page content width (with sidebar)"
+msgstr ""
+
+#: ../include/sections.php:1727
+msgid "Choose page content width for pages which have sidebar included"
+msgstr ""
+
+#: ../include/sections.php:1738
+msgid "Page content width (without sidebar)"
+msgstr ""
+
+#: ../include/sections.php:1739
+msgid ""
+"Choose page content width for pages which don't have sidebar included (full "
+"width pages)"
+msgstr ""
+
+#: ../include/sections.php:1751
+msgid "Choose default sidebar layout for pages"
+msgstr ""
+
+#: ../include/sections.php:1752
+msgid "Note: You can override this option for each particular page"
+msgstr ""
+
+#: ../include/sections.php:1760
+msgid "Page standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1761
+msgid "Choose page standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1770
+msgid "Page sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1771
+msgid "Choose page sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1781
+msgid "Choose if you want to display featured image on single pages"
+msgstr ""
+
+#: ../include/sections.php:1797
+msgid "Display comments"
+msgstr ""
+
+#: ../include/sections.php:1798
+msgid "Choose if you want to display comments on single pages"
+msgstr ""
+
+#: ../include/sections.php:1799
+msgid ""
+"Note: This is just an option to quickly hide the comments on pages. If you "
+"want to allow/disallow comments properly, you need to do it in \"Discussion"
+"\" box for each particular page."
+msgstr ""
+
+#: ../include/sections.php:1816
+msgid "Check which social networks you want to use for sharing your pages"
+msgstr ""
+
+#: ../include/sections.php:1841
+msgid "Category Templates"
+msgstr ""
+
+#: ../include/sections.php:1842
+msgid ""
+"Manage settings for category templates. Note: these are global category "
+"settings, you can optionally modify these settings for each category."
+msgstr ""
+
+#: ../include/sections.php:1850
+msgid "Display featured area/slider"
+msgstr ""
+
+#: ../include/sections.php:1851
+msgid "Check if you want to enable featured area for category templates"
+msgstr ""
+
+#: ../include/sections.php:1859
+msgid "Choose a layout for your featured area on category templates"
+msgstr ""
+
+#: ../include/sections.php:1869
+msgid "Number of featured area posts"
+msgstr ""
+
+#: ../include/sections.php:1870
+msgid "Specify how many posts you want to display inside featured area"
+msgstr ""
+
+#: ../include/sections.php:1879
+msgid "Featured posts are ordered by"
+msgstr ""
+
+#: ../include/sections.php:1888
+msgid "Featured posts are not older than"
+msgstr ""
+
+#: ../include/sections.php:1898
+msgid ""
+"Enable this option to exclude posts in featured area from showing in main "
+"post listing"
+msgstr ""
+
+#: ../include/sections.php:1906
+msgid "Show featured area on first page only"
+msgstr ""
+
+#: ../include/sections.php:1907
+msgid ""
+"Enable this option to display featured area only on first page of category"
+msgstr ""
+
+#: ../include/sections.php:1917
+msgid "Category posts main layout"
+msgstr ""
+
+#: ../include/sections.php:1918
+msgid "Choose how to display your posts on category templates"
+msgstr ""
+
+#: ../include/sections.php:1926
+msgid "Enable starter posts"
+msgstr ""
+
+#: ../include/sections.php:1927
+msgid ""
+"Check if you want to enable top/starter posts which will have different "
+"different layout than posts in main listing"
+msgstr ""
+
+#: ../include/sections.php:1934
+msgid "Category starter posts layout"
+msgstr ""
+
+#: ../include/sections.php:1935
+msgid "Choose how to display top/starter posts on category templates"
+msgstr ""
+
+#: ../include/sections.php:1946
+msgid "Specify how many top/starter posts you want to have"
+msgstr ""
+
+#: ../include/sections.php:1956
+msgid "Choose default sidebar layout for category template"
+msgstr ""
+
+#: ../include/sections.php:1964
+msgid "Category standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:1965
+msgid "Choose standard category sidebar"
+msgstr ""
+
+#: ../include/sections.php:1974
+msgid "Category sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:1975
+msgid "Choose sticky category sidebar"
+msgstr ""
+
+#: ../include/sections.php:1984
+msgid "Category pagination"
+msgstr ""
+
+#: ../include/sections.php:1985
+msgid "Choose which pagination to use on category templates"
+msgstr ""
+
+#: ../include/sections.php:1993 ../include/sections.php:2073
+#: ../include/sections.php:2152 ../include/sections.php:2231
+#: ../include/sections.php:2283 ../include/sections.php:2363
+msgid "Posts per page"
+msgstr ""
+
+#: ../include/sections.php:1994 ../include/sections.php:2074
+#: ../include/sections.php:2153 ../include/sections.php:2232
+#: ../include/sections.php:2284 ../include/sections.php:2364
+msgid "Choose how many posts per page you want to display"
+msgstr ""
+
+#: ../include/sections.php:1996 ../include/sections.php:2076
+#: ../include/sections.php:2155 ../include/sections.php:2234
+#: ../include/sections.php:2286 ../include/sections.php:2366
+#, php-format
+msgid "Inherit from global option in <a href=\"%s\">Settings->Reading</a>"
+msgstr ""
+
+#: ../include/sections.php:1997 ../include/sections.php:2077
+#: ../include/sections.php:2156 ../include/sections.php:2235
+#: ../include/sections.php:2287 ../include/sections.php:2367
+msgid "Custom number"
+msgstr ""
+
+#: ../include/sections.php:2006 ../include/sections.php:2086
+#: ../include/sections.php:2165 ../include/sections.php:2244
+#: ../include/sections.php:2296 ../include/sections.php:2376
+msgid "Number of post per page"
+msgstr ""
+
+#: ../include/sections.php:2018
+msgid "Tag Templates"
+msgstr ""
+
+#: ../include/sections.php:2019
+msgid "Manage settings for tag templates"
+msgstr ""
+
+#: ../include/sections.php:2025
+msgid "Tag archives layout"
+msgstr ""
+
+#: ../include/sections.php:2026
+msgid "Choose how to display your posts on tag template"
+msgstr ""
+
+#: ../include/sections.php:2036
+msgid "Choose sidebar layout for tag template"
+msgstr ""
+
+#: ../include/sections.php:2044
+msgid "Tag standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2045
+msgid "Choose standard sidebar for tag template"
+msgstr ""
+
+#: ../include/sections.php:2054
+msgid "Tag sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2055
+msgid "Choose sticky sidebar for tag template"
+msgstr ""
+
+#: ../include/sections.php:2064
+msgid "Tag pagination"
+msgstr ""
+
+#: ../include/sections.php:2065
+msgid "Choose which pagination to use on tag template"
+msgstr ""
+
+#: ../include/sections.php:2098
+msgid "Author Templates"
+msgstr ""
+
+#: ../include/sections.php:2099
+msgid "Manage settings for author templates"
+msgstr ""
+
+#: ../include/sections.php:2105
+msgid "Author archives layout"
+msgstr ""
+
+#: ../include/sections.php:2106
+msgid "Choose how to display your posts on author template"
+msgstr ""
+
+#: ../include/sections.php:2115
+msgid "Choose sidebar layout for author template"
+msgstr ""
+
+#: ../include/sections.php:2123
+msgid "Author standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2124
+msgid "Choose standard sidebar for author template"
+msgstr ""
+
+#: ../include/sections.php:2133
+msgid "Author sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2134
+msgid "Choose sticky sidebar for author template"
+msgstr ""
+
+#: ../include/sections.php:2143
+msgid "Author pagination"
+msgstr ""
+
+#: ../include/sections.php:2144
+msgid "Choose which pagination to use on author template"
+msgstr ""
+
+#: ../include/sections.php:2177
+msgid "Search Template"
+msgstr ""
+
+#: ../include/sections.php:2178
+msgid "Manage settings for search results template"
+msgstr ""
+
+#: ../include/sections.php:2184
+msgid "Search archives layout"
+msgstr ""
+
+#: ../include/sections.php:2185
+msgid "Choose how to display your posts on search template"
+msgstr ""
+
+#: ../include/sections.php:2194
+msgid "Choose sidebar layout for search template"
+msgstr ""
+
+#: ../include/sections.php:2202
+msgid "Search standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2203
+msgid "Choose standard sidebar for search template"
+msgstr ""
+
+#: ../include/sections.php:2212
+msgid "Search sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2213
+msgid "Choose sticky sidebar for search template"
+msgstr ""
+
+#: ../include/sections.php:2222
+msgid "Search pagination"
+msgstr ""
+
+#: ../include/sections.php:2223
+msgid "Choose which pagination to use on search template"
+msgstr ""
+
+#: ../include/sections.php:2258
+msgid "Posts Page Archive"
+msgstr ""
+
+#: ../include/sections.php:2259
+#, php-format
+msgid ""
+"Manage settings for posts page archive if you are using \"posts page\" "
+"option in <a href=\"%s\">Settings-> Reading</a>"
+msgstr ""
+
+#: ../include/sections.php:2265
+msgid "Posts page archives layout"
+msgstr ""
+
+#: ../include/sections.php:2266
+msgid "Choose how to display your posts on posts page template"
+msgstr ""
+
+#: ../include/sections.php:2274
+msgid "Posts page pagination"
+msgstr ""
+
+#: ../include/sections.php:2275
+msgid "Choose which pagination to use on posts page template"
+msgstr ""
+
+#: ../include/sections.php:2310
+msgid "Archive Templates"
+msgstr ""
+
+#: ../include/sections.php:2311
+msgid ""
+"Manage settings for other miscellaneous templates like date archives, post "
+"format archives, etc..."
+msgstr ""
+
+#: ../include/sections.php:2316
+msgid "Archives layout"
+msgstr ""
+
+#: ../include/sections.php:2317
+msgid "Choose how to display your posts on miscellaneous archive templates"
+msgstr ""
+
+#: ../include/sections.php:2326
+msgid "Choose sidebar layout for archive templates"
+msgstr ""
+
+#: ../include/sections.php:2334
+msgid "Archive standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2335
+msgid "Choose standard sidebar for archive templates"
+msgstr ""
+
+#: ../include/sections.php:2344
+msgid "Archive sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2345
+msgid "Choose sticky sidebar for archive templates"
+msgstr ""
+
+#: ../include/sections.php:2354
+msgid "Archive pagination"
+msgstr ""
+
+#: ../include/sections.php:2355
+msgid "Choose which pagination to use on archive templates"
+msgstr ""
+
+#: ../include/sections.php:2387
+msgid "Typography"
+msgstr ""
+
+#: ../include/sections.php:2388
+msgid "Manage fonts and typography settings"
+msgstr ""
+
+#: ../include/sections.php:2394
+msgid "Main text font"
+msgstr ""
+
+#: ../include/sections.php:2402
+msgid "This is you main font for standard text"
+msgstr ""
+
+#: ../include/sections.php:2420
+msgid "Headings font"
+msgstr ""
+
+#: ../include/sections.php:2428
+msgid "This font is used for headings, titles, h-elements..."
+msgstr ""
+
+#: ../include/sections.php:2447
+msgid "Navigation font"
+msgstr ""
+
+#: ../include/sections.php:2455
+msgid "This font is used for main website navigation"
+msgstr ""
+
+#: ../include/sections.php:2473
+msgid "Uppercase text"
+msgstr ""
+
+#: ../include/sections.php:2474
+msgid "Check if you want to show CAPITAL LETTERS for specific elements"
+msgstr ""
+
+#: ../include/sections.php:2476
+msgid "Site title"
+msgstr ""
+
+#: ../include/sections.php:2477
+msgid "Site description"
+msgstr ""
+
+#: ../include/sections.php:2478
+msgid "Main navigation"
+msgstr ""
+
+#: ../include/sections.php:2479
+msgid "Post/Page titles"
+msgstr ""
+
+#: ../include/sections.php:2480
+msgid "Box (module, archive, category, tag, etc...) titles"
+msgstr ""
+
+#: ../include/sections.php:2481
+msgid "Widget titles"
+msgstr ""
+
+#: ../include/sections.php:2482
+msgid "Footer widget titles"
+msgstr ""
+
+#: ../include/sections.php:2483
+msgid "Featured area titles"
+msgstr ""
+
+#: ../include/sections.php:2503
+msgid "Ads"
+msgstr ""
+
+#: ../include/sections.php:2504
+msgid ""
+"Use this options to fill your ads slots. Both image and JavaScript related "
+"ads are allowed."
+msgstr ""
+
+#: ../include/sections.php:2511
+msgid "Below header"
+msgstr ""
+
+#: ../include/sections.php:2512
+msgid "This ad will be displayed between your header and website content"
+msgstr ""
+
+#: ../include/sections.php:2514 ../include/sections.php:2527
+#: ../include/sections.php:2540 ../include/sections.php:2553
+#: ../include/sections.php:2566
+msgid ""
+"Note: If you want to paste HTML or JavaScript code, use \"text\" mode in "
+"editor"
+msgstr ""
+
+#: ../include/sections.php:2524
+msgid "Above footer"
+msgstr ""
+
+#: ../include/sections.php:2525
+msgid "This ad will be displayed between your footer and website content"
+msgstr ""
+
+#: ../include/sections.php:2537
+msgid "Above single post content"
+msgstr ""
+
+#: ../include/sections.php:2538
+msgid ""
+"This ad will be displayed above post content on your single post templates"
+msgstr ""
+
+#: ../include/sections.php:2550
+msgid "Below single post content"
+msgstr ""
+
+#: ../include/sections.php:2551
+msgid ""
+"This ad will be displayed below post content on your single post templates"
+msgstr ""
+
+#: ../include/sections.php:2563
+msgid "Between posts"
+msgstr ""
+
+#: ../include/sections.php:2564
+msgid ""
+"This ad will be displayed between posts on archive templates such as "
+"category archives, tag archives etc..."
+msgstr ""
+
+#: ../include/sections.php:2577
+msgid "Between posts position"
+msgstr ""
+
+#: ../include/sections.php:2578
+msgid "Specify after how many posts you want to display ad"
+msgstr ""
+
+#: ../include/sections.php:2590
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../include/sections.php:2591
+msgid "These are some miscellaneous settings for the website"
+msgstr ""
+
+#: ../include/sections.php:2598
+msgid "More string"
+msgstr ""
+
+#: ../include/sections.php:2599
+msgid ""
+"Specify your \"more\" string to append after limited post titles and "
+"excerpts across the theme"
+msgstr ""
+
+#: ../include/sections.php:2607
+msgid "Display \"time ago\" format"
+msgstr ""
+
+#: ../include/sections.php:2608
+msgid ""
+"Display post dates in \"time ago\" manner, like Twitter and Facebook (i.e 5 "
+"hours ago, 3 days ago, 2 weeks ago, 4 months ago, etc...)"
+msgstr ""
+
+#: ../include/sections.php:2609
+#, php-format
+msgid ""
+"Note: If you disable this option, you can choose your preferred date format "
+"in <a href=\"%s\">Settings -> General</a>"
+msgstr ""
+
+#: ../include/sections.php:2616
+msgid "Apply \"time ago\" to posts which are not older than"
+msgstr ""
+
+#: ../include/sections.php:2618
+msgid "1 Hour"
+msgstr ""
+
+#: ../include/sections.php:2625
+msgid "Apply to all posts"
+msgstr ""
+
+#: ../include/sections.php:2634
+msgid "Display \"ago\" word before date/time"
+msgstr ""
+
+#: ../include/sections.php:2635
+msgid ""
+"By default, \"ago\" word goes after date/time string but in some languages "
+"different than English it is more proper to display it before."
+msgstr ""
+
+#: ../include/sections.php:2636
+msgid "Example: \"Publie depuis 3 heures\""
+msgstr ""
+
+#: ../include/sections.php:2645
+msgid "Post views forgery"
+msgstr ""
+
+#: ../include/sections.php:2646
+msgid "Specify value to add to real number of entry views for each post"
+msgstr ""
+
+#: ../include/sections.php:2647
+msgid ""
+"i.e. If post has 45 views and you put 100, your post will display 145 views"
+msgstr ""
+
+#: ../include/sections.php:2655
+msgid "Display scroll to top button"
+msgstr ""
+
+#: ../include/sections.php:2656
+msgid "Check if you want to display scroll to top button"
+msgstr ""
+
+#: ../include/sections.php:2663
+msgid "Scroll to top button color"
+msgstr ""
+
+#: ../include/sections.php:2664
+msgid "Choose color for scroll to top button"
+msgstr ""
+
+#: ../include/sections.php:2673
+msgid "Use Voice gallery style"
+msgstr ""
+
+#: ../include/sections.php:2674
+msgid ""
+"Check if you want to use our built in gallery style or disable if you want "
+"to use default WordPress gallery or some other gallery plugin"
+msgstr ""
+
+#: ../include/sections.php:2681
+msgid "Enable zoom effect on featured images"
+msgstr ""
+
+#: ../include/sections.php:2682
+msgid "Check if you want to enable zoom effect on featured image mouse-over"
+msgstr ""
+
+#: ../include/sections.php:2690
+msgid "404 template image"
+msgstr ""
+
+#: ../include/sections.php:2691
+msgid "Upload image for 404 template (optional)"
+msgstr ""
+
+#: ../include/sections.php:2692
+msgid "Supported formats: .jpg and .png"
+msgstr ""
+
+#: ../include/sections.php:2699
+msgid "Enable \"multibyte\" support for text excerpts"
+msgstr ""
+
+#: ../include/sections.php:2700
+msgid ""
+"Use this option for some specific languages that have special characters i."
+"e. Japanese"
+msgstr ""
+
+#: ../include/sections.php:2707
+msgid "Enable \"multibyte\" support for reading time"
+msgstr ""
+
+#: ../include/sections.php:2708
+msgid ""
+"Enable this option if your site is using a language with UTF8 characters i."
+"e. Russian"
+msgstr ""
+
+#: ../include/sections.php:2720
+msgid "WooCommerce"
+msgstr ""
+
+#: ../include/sections.php:2721
+msgid "Manage options for WooCommerce pages"
+msgstr ""
+
+#: ../include/sections.php:2726
+msgid "Product sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2727
+msgid "Choose sidebar layout for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2735
+msgid "Product standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2736
+msgid "Choose standard sidebar for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2745
+msgid "Product sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2746
+msgid "Choose sticky sidebar for WooCommerce products"
+msgstr ""
+
+#: ../include/sections.php:2755
+msgid "Product category sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2756
+msgid "Choose sidebar layout for WooCommerce product category"
+msgstr ""
+
+#: ../include/sections.php:2764
+msgid "Product category standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2765
+msgid "Choose standard sidebar for WooCommerce product category"
+msgstr ""
+
+#: ../include/sections.php:2774
+msgid "Product category sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2775
+msgid "Choose sticky sidebar for WooCommerce product category"
+msgstr ""
+
+#: ../include/sections.php:2789
+msgid "bbPress"
+msgstr ""
+
+#: ../include/sections.php:2790
+msgid "Manage options for bbPress pages"
+msgstr ""
+
+#: ../include/sections.php:2795
+msgid "Forum sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2796
+msgid "Choose sidebar layout for bbPress forums"
+msgstr ""
+
+#: ../include/sections.php:2804
+msgid "Forum standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2805
+msgid "Choose standard sidebar for bbPress forums"
+msgstr ""
+
+#: ../include/sections.php:2814
+msgid "Forum sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2815
+msgid "Choose sticky sidebar for bbPress forums"
+msgstr ""
+
+#: ../include/sections.php:2824
+msgid "Topic sidebar layout"
+msgstr ""
+
+#: ../include/sections.php:2825
+msgid "Choose sidebar layout for bbPress topics"
+msgstr ""
+
+#: ../include/sections.php:2833
+msgid "Topic standard sidebar"
+msgstr ""
+
+#: ../include/sections.php:2834
+msgid "Choose standard sidebar for bbPress topics"
+msgstr ""
+
+#: ../include/sections.php:2843
+msgid "Topic sticky sidebar"
+msgstr ""
+
+#: ../include/sections.php:2844
+msgid "Choose sticky sidebar for bbPress topics"
+msgstr ""
+
+#: ../include/sections.php:2863
+msgid "Enable theme translation?"
+msgstr ""
+
+#: ../include/sections.php:2881
+msgid "Translation"
+msgstr ""
+
+#: ../include/sections.php:2882
+msgid ""
+"Use these settings to quckly translate or change text inside this theme. If "
+"you want to remove the text completely instead of modifying it, you can use "
+"<strong>\"-1\"</strong> as a value for particular field translation. <br/"
+"><br/><strong>Note:</strong> If you are using this theme for multilingual "
+"website, you need to disable these options and use multilanguage plugins "
+"(such as WPML) or manual translation via .po and .mo files located inside "
+"\"wp-content/themes/voice/languages\" folder."
+msgstr ""
+
+#: ../include/sections.php:2890
+msgid "Performance"
+msgstr ""
+
+#: ../include/sections.php:2891
+msgid "Use these options to optimize your page speed"
+msgstr ""
+
+#: ../include/sections.php:2897
+msgid "Use minified CSS"
+msgstr ""
+
+#: ../include/sections.php:2898
+msgid "Load all theme css files combined and minified into a single file."
+msgstr ""
+
+#: ../include/sections.php:2905
+msgid "Use minified JS"
+msgstr ""
+
+#: ../include/sections.php:2906
+msgid "Load all theme js files combined and minified into a single file."
+msgstr ""
+
+#: ../include/sections.php:2916
+msgid "Updater"
+msgstr ""
+
+#: ../include/sections.php:2917
+#, php-format
+msgid ""
+"Specify your ThemeForest username and API Key in order to enable quick Voice "
+"theme updates. Whenever we release new Voice update it will appear on your "
+"<a href=\"%s\">updates screen</a>."
+msgstr ""
+
+#: ../include/sections.php:2923
+msgid "Your ThemeForest Username"
+msgstr ""
+
+#: ../include/sections.php:2930
+msgid "Your ThemeForest API Key"
+msgstr ""
+
+#: ../include/sections.php:2931
+msgid ""
+"Where can I find my <a href=\"http://themeforest.net/help/api\" target="
+"\"_blank\">API key</a>?"
+msgstr ""
+
+#: ../include/sidebars.php:12
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../include/sidebars.php:13
+msgid "This is default sidebar."
+msgstr ""
+
+#: ../include/sidebars.php:25
+msgid "Default Sticky Sidebar"
+msgstr ""
+
+#: ../include/sidebars.php:26
+msgid ""
+"This is default sticky sidebar. Sticky means that it will be always pinned "
+"to top while you are scrolling through your website content."
+msgstr ""
+
+#: ../include/sidebars.php:60
+msgid "Footer Column 1"
+msgstr ""
+
+#: ../include/sidebars.php:61
+msgid "This is sidebar to use in footer area column 1."
+msgstr ""
+
+#: ../include/sidebars.php:73
+msgid "Footer Column 2"
+msgstr ""
+
+#: ../include/sidebars.php:74
+msgid "This is sidebar to use in footer area column 2."
+msgstr ""
+
+#: ../include/sidebars.php:87
+msgid "Footer Column 3"
+msgstr ""
+
+#: ../include/sidebars.php:88
+msgid "This is sidebar to use in footer area column 3."
+msgstr ""
+
+#: ../include/snippets.php:71
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../include/snippets.php:755
+msgid "Show social networks"
+msgstr ""
+
+#: ../include/snippets.php:756
+msgid "Check this box to show social networks"
+msgstr ""
+
+#: ../include/snippets.php:763
+msgid "Show social networks:"
+msgstr ""
+
+#: ../include/snippets.php:764
+msgid "Check this box to display social networks"
+msgstr ""
+
+#: ../include/translate.php:8
+msgid " Load more"
+msgstr ""
+
+#: ../include/translate.php:9
+msgid "Read more"
+msgstr ""
+
+#: ../include/translate.php:10
+msgid "Add Comment"
+msgstr ""
+
+#: ../include/translate.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: ../include/translate.php:12 ../include/translate.php:35
+msgid "% Comments"
+msgstr ""
+
+#: ../include/translate.php:13
+msgid "Newer Entries"
+msgstr ""
+
+#: ../include/translate.php:14
+msgid "Older Entries"
+msgstr ""
+
+#: ../include/translate.php:15 ../include/translate.php:30
+msgid "Next"
+msgstr ""
+
+#: ../include/translate.php:16
+msgid "Previous"
+msgstr ""
+
+#: ../include/translate.php:17
+msgid "Category - "
+msgstr ""
+
+#: ../include/translate.php:18
+msgid "Tag - "
+msgstr ""
+
+#: ../include/translate.php:19
+msgid "Author - "
+msgstr ""
+
+#: ../include/translate.php:20
+msgid "Archive - "
+msgstr ""
+
+#: ../include/translate.php:21
+msgid "Search Results For - "
+msgstr ""
+
+#: ../include/translate.php:22
+msgid "Type here to search..."
+msgstr ""
+
+#: ../include/translate.php:23
+msgid "ago"
+msgstr ""
+
+#: ../include/translate.php:24
+msgid "Written by"
+msgstr ""
+
+#: ../include/translate.php:25
+msgid "by"
+msgstr ""
+
+#: ../include/translate.php:27
+msgid "min read"
+msgstr ""
+
+#: ../include/translate.php:28
+msgid "You may also like"
+msgstr ""
+
+#: ../include/translate.php:29
+msgid "Latest articles"
+msgstr ""
+
+#: ../include/translate.php:31
+msgid "Prev"
+msgstr ""
+
+#: ../include/translate.php:32
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: ../include/translate.php:33
+msgid "View all posts"
+msgstr ""
+
+#: ../include/translate.php:34
+msgid "About the author"
+msgstr ""
+
+#: ../include/translate.php:36
+msgid "Leave a comment"
+msgstr ""
+
+#: ../include/translate.php:37
+msgid "Reply"
+msgstr ""
+
+#: ../include/translate.php:38
+msgid "Nothing found"
+msgstr ""
+
+#: ../include/translate.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../include/translate.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../include/translate.php:41
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../include/translate.php:42
+msgid "X"
+msgstr ""
+
+#: ../include/translate.php:43
+msgid "Post Comment"
+msgstr ""
+
+#: ../include/translate.php:44
+msgid "Comment"
+msgstr ""
+
+#: ../include/translate.php:45
+msgid "Name"
+msgstr ""
+
+#: ../include/translate.php:46
+msgid "Email"
+msgstr ""
+
+#: ../include/translate.php:47
+msgid "Website"
+msgstr ""
+
+#: ../include/translate.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../include/translate.php:49
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../include/translate.php:50
+msgid "404 error: Page not found"
+msgstr ""
+
+#: ../include/translate.php:51
+msgid "It seems that you got lost, but we are here to help"
+msgstr ""
+
+#: ../include/translate.php:52
+msgid ""
+"The page that you are looking for doesn&rsquo;t exist on this website. You "
+"may have accidentally mistype the page address, or followed an expired link. "
+"Anyway, we will help you get back on track. Why don&rsquo;t you try one of "
+"these pages for starters."
+msgstr ""
+
+#: ../include/widgets/adsense.php:11
+msgid ""
+"You can place Google AdSense or any JavaScript related code inside this "
+"widget"
+msgstr ""
+
+#: ../include/widgets/adsense.php:13
+msgid "Voice Adsense"
+msgstr ""
+
+#: ../include/widgets/adsense.php:16
+msgid "Adsense"
+msgstr ""
+
+#: ../include/widgets/adsense.php:65
+msgid "Leave empty for no title"
+msgstr ""
+
+#: ../include/widgets/adsense.php:69
+msgid "Adsense Code"
+msgstr ""
+
+#: ../include/widgets/adsense.php:71
+msgid ""
+"Place your Google Adsense code or any JavaScript related advertising code."
+msgstr ""
+
+#: ../include/widgets/adsense.php:76
+msgid "Expand widget area to 300px"
+msgstr ""
+
+#: ../include/widgets/adsense.php:77
+msgid ""
+"Check this option if you are using 300px wide adsense so it can fit your "
+"widget area"
+msgstr ""
+
+#: ../include/widgets/posts.php:11
+msgid "Display your posts with this widget"
+msgstr ""
+
+#: ../include/widgets/posts.php:13
+msgid "Voice Posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:16
+msgid "Featured Posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:198
+msgid "Autoplay slider:"
+msgstr ""
+
+#: ../include/widgets/posts.php:200
+msgid ""
+"Specify number of seconds if you want to enable autoplay/rotate for slider"
+msgstr ""
+
+#: ../include/widgets/posts.php:209
+msgid "Auto detect category"
+msgstr ""
+
+#: ../include/widgets/posts.php:210
+msgid ""
+"If sidebar is used on single post template, display posts from current post "
+"category "
+msgstr ""
+
+#: ../include/widgets/posts.php:215
+msgid "Select tags"
+msgstr ""
+
+#: ../include/widgets/posts.php:217
+msgid ""
+"Specify tag slugs separated by comma if you want to select only those tags. "
+"i.e. sugar, spice, everything-nice."
+msgstr ""
+
+#: ../include/widgets/posts.php:225
+msgid "Only select posts which are not older than"
+msgstr ""
+
+#: ../include/widgets/posts.php:235
+msgid "Choose manually"
+msgstr ""
+
+#: ../include/widgets/posts.php:237
+msgid ""
+"Specify post ids separated by comma if you want to select only those posts. "
+"i.e. 213,32,12,45 Note: you can also choose pages as well as custom post "
+"types"
+msgstr ""
+
+#: ../include/widgets/posts.php:241
+msgid "Post titles characters limit"
+msgstr ""
+
+#: ../include/widgets/posts.php:243
+msgid "Note: Leave empty if you want to show entire post titles"
+msgstr ""
+
+#: ../include/widgets/posts.php:268
+msgid "Select all posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:279
+msgid "Order by:"
+msgstr ""
+
+#: ../include/widgets/posts.php:292
+msgid "Choose from:"
+msgstr ""
+
+#: ../include/widgets/posts.php:302
+msgid "Big posts"
+msgstr ""
+
+#: ../include/widgets/posts.php:303
+msgid "Post list"
+msgstr ""
+
+#: ../include/widgets/posts.php:304
+msgid "Slider"
+msgstr ""
+
+#: ../include/widgets/posts.php:308
+msgid "Widget style:"
+msgstr ""
+
+#: ../include/widgets/posts.php:333
+msgid "Display meta data:"
+msgstr ""
+
+#: ../include/widgets/video.php:11
+msgid "You can easily place YouTube or Vimeo video here"
+msgstr ""
+
+#: ../include/widgets/video.php:13
+msgid "Voice Video"
+msgstr ""
+
+#: ../include/widgets/video.php:16
+msgid "Video"
+msgstr ""
+
+#: ../include/widgets/video.php:85
+msgid "Video type"
+msgstr ""
+
+#: ../include/widgets/video.php:87
+msgid "YouTube"
+msgstr ""
+
+#: ../include/widgets/video.php:89
+msgid "Vimeo"
+msgstr ""
+
+#: ../include/widgets/video.php:93
+msgid "Video ID"
+msgstr ""
+
+#: ../include/widgets/video.php:95
+msgid "ID example"
+msgstr ""
+
+#: ../include/widgets/video.php:99
+msgid "Height"
+msgstr ""
+
+#: ../include/widgets/video.php:104
+msgid "Description (optional)"
+msgstr ""
+
+#: ../sections/content-none.php:4
+#, php-format
+msgid ""
+"No posts can be found on this page. Go and <a href=\"%1$s\">add some new "
+"posts</a>."
+msgstr ""
+
+#: ../sections/footer-menu.php:6
+msgid "Click here to add footer navigation"
+msgstr ""
+
+#: ../sections/social-menu.php:18
+msgid "Click here to add social menu"
+msgstr ""
+
+#: ../sections/top-navigation.php:6
+msgid "Click here to add top navigation"
+msgstr ""
+
+#: ../sections/headers/navigation.php:15
+msgid "Click here to add navigation menu"
+msgstr ""
